@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-methodes/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-methodes/static/js/main.27eb119e.chunk.js",
+    "main.js.map": "/react-methodes/static/js/main.27eb119e.chunk.js.map",
+    "runtime-main.js": "/react-methodes/static/js/runtime-main.8497ff3f.js",
+    "runtime-main.js.map": "/react-methodes/static/js/runtime-main.8497ff3f.js.map",
+    "static/js/2.44bc533f.chunk.js": "/react-methodes/static/js/2.44bc533f.chunk.js",
+    "static/js/2.44bc533f.chunk.js.map": "/react-methodes/static/js/2.44bc533f.chunk.js.map",
+    "static/js/3.06ac75d6.chunk.js": "/react-methodes/static/js/3.06ac75d6.chunk.js",
+    "static/js/3.06ac75d6.chunk.js.map": "/react-methodes/static/js/3.06ac75d6.chunk.js.map",
+    "index.html": "/react-methodes/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-methodes/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.44bc533f.chunk.js.LICENSE.txt": "/react-methodes/static/js/2.44bc533f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-methodes/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8497ff3f.js",
+    "static/js/2.44bc533f.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.27eb119e.chunk.js"
+  ]
+}
